@@ -1,0 +1,5 @@
+Scifi Pistol (from the "Scifi Gun Pack") by Quaternius
+Source: https://poly.pizza/m/U0Q1BrKL1y (file: https://static.poly.pizza/f5fbbeae-7e3f-4185-a262-3f457fdf9202.glb)
+Downloaded: October 4, 2026
+License: Public Domain (CC0 1.0), https://creativecommons.org/publicdomain/zero/1.0/
+Used as: public/models/guns/quaternius-scifi-pistol.glb (the right hand's gun, under comparison)
